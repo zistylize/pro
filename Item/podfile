@@ -1,0 +1,5 @@
+platform:ios
+target 'Item' do
+pod 'AFNetworking'
+end
+
